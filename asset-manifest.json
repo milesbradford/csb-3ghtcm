@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://milesbradford.github.io/csb-3ghtcm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://milesbradford.github.io/csb-3ghtcm/static/js/main.0a12b3ec.chunk.js",
+    "main.js.map": "https://milesbradford.github.io/csb-3ghtcm/static/js/main.0a12b3ec.chunk.js.map",
+    "runtime-main.js": "https://milesbradford.github.io/csb-3ghtcm/static/js/runtime-main.bca3f91b.js",
+    "runtime-main.js.map": "https://milesbradford.github.io/csb-3ghtcm/static/js/runtime-main.bca3f91b.js.map",
+    "static/js/2.56d4e68f.chunk.js": "https://milesbradford.github.io/csb-3ghtcm/static/js/2.56d4e68f.chunk.js",
+    "static/js/2.56d4e68f.chunk.js.map": "https://milesbradford.github.io/csb-3ghtcm/static/js/2.56d4e68f.chunk.js.map",
+    "index.html": "https://milesbradford.github.io/csb-3ghtcm/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://milesbradford.github.io/csb-3ghtcm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.56d4e68f.chunk.js.LICENSE.txt": "https://milesbradford.github.io/csb-3ghtcm/static/js/2.56d4e68f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bca3f91b.js",
+    "static/js/2.56d4e68f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0a12b3ec.chunk.js"
+  ]
+}
